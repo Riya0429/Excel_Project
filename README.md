@@ -15,11 +15,11 @@ Analyzed the 1st quarter's data of the company and solved the following business
 
 Visually represented the Key Performance Indicators
 such as; 
-Total Orders
-Total Quantity
-Total Amount
-Avg. Rating
-Avg. Days to Deliver
+Total Orders,
+Total Quantity,
+Total Amount,
+Avg. Rating,
+Avg. Days to Deliver.
 And answers for the above questions in the form of dashboard.
 
 ##Key Insights-
