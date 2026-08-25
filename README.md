@@ -4,8 +4,8 @@
 
 Analyzed the 1st quarter's data of the company and solved the following business questions.
 
-Trend in the last 13 weeks
-How our customers like to buy
+Trend in the last 13 weeks?
+How our customers like to buy?
 How many they buy?
 Which products are popular?
 Overall gender split
